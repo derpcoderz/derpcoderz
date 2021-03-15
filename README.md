@@ -2,7 +2,8 @@
 Follow me on krunker for shoutout
 - 👀 I’m interested in ... Hacking/krunker
 - 🌱 I’m currently learning ... Hacking (duh)
-- 💞️ I’m looking to collaborate on ... Nothing
+- 💞️ I’m looking to collaborate on ... Nothing. (Unless you
+Have a bitbucket account. Email me at imposterderp@gmail.com
 - 📫 How to reach me ... Yo mammas grocery store
           ****Important!
 All of my things are for tampermonkey/javascript ONLY.****
