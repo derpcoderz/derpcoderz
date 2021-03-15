@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @derpcoderz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Follow me on krunker for shoutout
+- 👀 I’m interested in ... Hacking/krunker
+- 🌱 I’m currently learning ... Hacking (duh)
+- 💞️ I’m looking to collaborate on ... Nothing
+- 📫 How to reach me ... Yo mammas grocery store
 
 <!---
 derpcoderz/derpcoderz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
