@@ -5,7 +5,7 @@ Follow me on krunker for shoutout
 - 💞️ I’m looking to collaborate on ... Nothing
 - 📫 How to reach me ... Yo mammas grocery store
           ****Important!****
-All of my things are for tampermonkey ONLY.
+All of my things are for tampermonkey/javascript ONLY.
 ______________________________________________________
 <!---
 derpcoderz/derpcoderz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
